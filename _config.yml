@@ -1,0 +1,8 @@
+title: MagicWorldZ's Home
+description: A husband, dad. Love and hate the computer world.
+show_downloads: false
+google_analytics: UA-130887248-1
+theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
