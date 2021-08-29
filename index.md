@@ -48,4 +48,8 @@ Senior Software Engineer from Somewhere.
 * [Home](https://magicworldz.de)
 * [My Blog](https://blog.magicworldz.de)
 * [Java Learn](https://java.magicworldz.de)
+* [Algorithm Learn](https://algorithm.magicworldz.de)
+* [Golang Learn](https://golang.magicworldz.de)
+* [Database Learn](https://database.magicworldz.de)
+* [UML Learn](https://uml.magicworldz.de)
 * [Angular Tools](https://tool.magicworldz.de)
