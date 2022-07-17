@@ -45,11 +45,11 @@ Senior Software Engineer from Somewhere.
 
 # My Creations
 
-* [Home](https://magicworldz.de)
-* [My Blog](https://blog.magicworldz.de)
-* [Java Learn](https://java.magicworldz.de)
-* [Algorithm Learn](https://algorithm.magicworldz.de)
-* [Golang Learn](https://golang.magicworldz.de)
-* [Database Learn](https://database.magicworldz.de)
-* [UML Learn](https://uml.magicworldz.de)
-* [Angular Tools](https://tool.magicworldz.de)
+* [Home](https://magicworldz.dev)
+* [My Blog](https://blog.magicworldz.dev)
+* [Java Learn](https://java.magicworldz.dev)
+* [Algorithm Learn](https://algorithm.magicworldz.dev)
+* [Golang Learn](https://golang.magicworldz.dev)
+* [Database Learn](https://database.magicworldz.dev)
+* [UML Learn](https://uml.magicworldz.dev)
+* [Angular Tools](https://tool.magicworldz.dev)
